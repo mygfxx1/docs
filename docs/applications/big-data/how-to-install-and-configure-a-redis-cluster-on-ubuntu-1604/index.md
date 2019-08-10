@@ -1,5 +1,5 @@
 ---
-author:
+author:test
   name: Sam Foo
   email: docs@linode.com
 description: 'Learn to set up a Redis cluster using three Linode servers and promoting a slave to become a master node with this guide. Redis is an in-memory key/value store offering high performance for caching and more.'
